@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "451734690659",
+    "project_id": "mindful-minutes-a0c03",
+    "storage_bucket": "mindful-minutes-a0c03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451734690659:android:16a76caddff79e0ff29156",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bigapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451734690659-3dj27dr9mi9t1rkb0l6690qsh2gmn24h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_bigapp",
+            "certificate_hash": "de3478f91ba040c77612578c61c596aef0dc006a"
+          }
+        },
+        {
+          "client_id": "451734690659-dt89mhaefc4kl9h98qs8nmgtubopnjr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iJ51amxpImKm02KZ5JvniG9qqooMm-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451734690659-dt89mhaefc4kl9h98qs8nmgtubopnjr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451734690659-un6pntjhv6135u4fm6mna12d19raanfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBigapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
